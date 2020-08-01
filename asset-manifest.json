@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HappyFriendshipDay/static/css/main.a364cd13.chunk.css",
+    "main.js": "/HappyFriendshipDay/static/js/main.87201c68.chunk.js",
+    "main.js.map": "/HappyFriendshipDay/static/js/main.87201c68.chunk.js.map",
+    "runtime-main.js": "/HappyFriendshipDay/static/js/runtime-main.793130ab.js",
+    "runtime-main.js.map": "/HappyFriendshipDay/static/js/runtime-main.793130ab.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/HappyFriendshipDay/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.b1485d2f.chunk.js": "/HappyFriendshipDay/static/js/2.b1485d2f.chunk.js",
+    "static/js/2.b1485d2f.chunk.js.map": "/HappyFriendshipDay/static/js/2.b1485d2f.chunk.js.map",
+    "index.html": "/HappyFriendshipDay/index.html",
+    "precache-manifest.cd242028d5ed8bc87b7a27bb4112dac4.js": "/HappyFriendshipDay/precache-manifest.cd242028d5ed8bc87b7a27bb4112dac4.js",
+    "service-worker.js": "/HappyFriendshipDay/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/HappyFriendshipDay/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.a364cd13.chunk.css.map": "/HappyFriendshipDay/static/css/main.a364cd13.chunk.css.map",
+    "static/js/2.b1485d2f.chunk.js.LICENSE.txt": "/HappyFriendshipDay/static/js/2.b1485d2f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/HappyFriendshipDay/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.793130ab.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.b1485d2f.chunk.js",
+    "static/css/main.a364cd13.chunk.css",
+    "static/js/main.87201c68.chunk.js"
+  ]
+}
